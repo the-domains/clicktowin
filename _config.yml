@@ -1,0 +1,34 @@
+typography_spectrum: 0.005335225329485418
+color:
+  brandStrength: 0.4623996387124246
+  lightness: 0.7751374404073352
+  saturation: 0.5018735891669104
+  rhythmicContrast: 0.8566017254560006
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+github: true
+layout_spectrum: 0.5281558307577477
+analytics:
+  google: UA-83695144-2
+author:
+  name: ''
+  email: news@clicktowin.de
+  url: 'http://clicktowin.de'
+logo: null
+name: ClicktoWin.de
+navigation:
+  - name: Impressum
+    id: 4ea4aee3-f277-4a0e-bf19-cfe6b5d95c8c
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/90717c6f-6e3e-4e22-ae15-39e617a2c280.ico
+title: Mit Gewinnspielen einfach tolle Preise gewinnen!
+content: []
+description: >-
+  ClicktoWin.de ist DAS kostenlose Gewinnspielverzeichnis - gelistet werden
+  ausschließlich Gratis-Gewinnspiele
+purpose: []
