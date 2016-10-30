@@ -32,4 +32,7 @@ content: []
 description: >-
   ClicktoWin.de ist DAS kostenlose Gewinnspielverzeichnis - gelistet werden
   ausschließlich Gratis-Gewinnspiele
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:news@clicktowin.de'
+    label: Contact me
