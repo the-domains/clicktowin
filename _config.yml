@@ -18,7 +18,8 @@ author:
   name: ''
   email: news@clicktowin.de
   url: 'http://clicktowin.de'
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a55ba371-4dee-462b-b0bb-375350856f28.png
 name: ClicktoWin.de
 navigation:
   - name: Impressum
